@@ -1,6 +1,6 @@
 ﻿namespace Lambda_expression
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         { 
